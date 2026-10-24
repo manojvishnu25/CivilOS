@@ -1,0 +1,6222 @@
+{
+  "projects": [
+    {
+      "id": "project-default",
+      "name": "Luxury Ocean Villa",
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "east",
+      "floors": 2,
+      "bhk": 4,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "glass",
+        "wood"
+      ],
+      "climate": "hot",
+      "hasPool": true,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": true,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": true,
+      "soilType": "medium",
+      "generatedByAI": true,
+      "updatedAt": "2026-08-07T06:56:13.226Z"
+    },
+    {
+      "buildingType": "mall",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785657171653",
+      "updatedAt": "2026-08-02T07:53:23.522Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785657282025",
+      "updatedAt": "2026-08-02T07:55:23.846Z",
+      "name": "My Villa Project",
+      "placedObjects": [
+        {
+          "id": 1785657322317,
+          "type": "bedroom",
+          "position": [
+            8.42623923207563,
+            0,
+            -56.33720082930891
+          ]
+        }
+      ]
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785657382723",
+      "updatedAt": "2026-08-02T07:56:24.407Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785657734199",
+      "updatedAt": "2026-08-02T08:02:15.809Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 46,
+      "plotDepth": 68,
+      "plotFacing": "north",
+      "floors": 4,
+      "bhk": 10,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785733791120",
+      "updatedAt": "2026-08-03T05:24:35.233Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "apartment",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 10,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785734937117",
+      "updatedAt": "2026-08-03T05:29:17.200Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785735121171",
+      "updatedAt": "2026-08-03T05:38:23.866Z",
+      "name": "My Villa Project",
+      "placedObjects": [
+        {
+          "id": 1785735370211,
+          "type": "text",
+          "position": [
+            -1.2925822356589425,
+            0.1,
+            3.198174247936983
+          ],
+          "customVal": "manoj"
+        },
+        {
+          "id": 1785735399685,
+          "type": "wall",
+          "position": [
+            -7.397667937775787,
+            0,
+            13.679245702586972
+          ]
+        },
+        {
+          "id": 1785735401714,
+          "type": "wall",
+          "position": [
+            -24.42494332325558,
+            0,
+            -59.090135556063345
+          ]
+        },
+        {
+          "id": 1785735403040,
+          "type": "wall",
+          "position": [
+            -9.65472239149662,
+            0,
+            -0.46883516818139626
+          ]
+        },
+        {
+          "id": 1785735404454,
+          "type": "wall",
+          "position": [
+            -8.361804457409374,
+            0,
+            6.632553191494647
+          ]
+        },
+        {
+          "id": 1785735405536,
+          "type": "wall",
+          "position": [
+            -7.7929715485697475,
+            0,
+            9.218936839141668
+          ]
+        },
+        {
+          "id": 1785735406761,
+          "type": "wall",
+          "position": [
+            -8.734526047981419,
+            0,
+            8.882686484424509
+          ]
+        },
+        {
+          "id": 1785735413156,
+          "type": "door",
+          "position": [
+            -2.0403647561258076,
+            0,
+            6.497406799788209
+          ]
+        },
+        {
+          "id": 1785735414360,
+          "type": "door",
+          "position": [
+            -2.7165795771382975,
+            0,
+            2.9423064664431635
+          ]
+        },
+        {
+          "id": 1785735414881,
+          "type": "door",
+          "position": [
+            -2.7165784796263317,
+            0,
+            2.9423074797562467
+          ]
+        },
+        {
+          "id": 1785735419977,
+          "type": "door",
+          "position": [
+            4.616151739273233,
+            0,
+            1.852078976605787
+          ]
+        },
+        {
+          "id": 1785735421146,
+          "type": "door",
+          "position": [
+            3.881085469998867,
+            0,
+            -3.171856042390287
+          ]
+        },
+        {
+          "id": 1785735422084,
+          "type": "door",
+          "position": [
+            3.435588346126311,
+            0,
+            -9.06767612051271
+          ]
+        },
+        {
+          "id": 1785735424960,
+          "type": "bedroom",
+          "position": [
+            0.81768609329173,
+            0,
+            6.787543807331647
+          ]
+        },
+        {
+          "id": 1785735428379,
+          "type": "living",
+          "position": [
+            3.422465218614235,
+            0,
+            6.262009191299379
+          ]
+        }
+      ]
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785735587332",
+      "updatedAt": "2026-08-03T05:39:49.010Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "apartment",
+      "plotWidth": 50,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 10,
+      "bhk": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "medium",
+      "architecturalStyle": "luxury",
+      "materials": [
+        "concrete",
+        "brick",
+        "steel",
+        "wood"
+      ],
+      "climate": "rainy",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": false,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": false,
+      "hasTerrace": false,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": true,
+      "id": "project-1785735829304",
+      "updatedAt": "2026-08-03T05:43:51.003Z",
+      "name": "My Apartment Project"
+    },
+    {
+      "buildingType": "hospital",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": false,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": false,
+      "hasTerrace": false,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": true,
+      "placedObjects": [
+        {
+          "id": "struct-found-0",
+          "type": "foundation",
+          "position": [
+            -3.6400000000000006,
+            -0.2,
+            -5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-col-0-0",
+          "type": "column",
+          "position": [
+            -3.6400000000000006,
+            0,
+            -5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-col-0-1",
+          "type": "column",
+          "position": [
+            -3.6400000000000006,
+            2.8,
+            -5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-found-1",
+          "type": "foundation",
+          "position": [
+            3.6400000000000006,
+            -0.2,
+            -5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-col-1-0",
+          "type": "column",
+          "position": [
+            3.6400000000000006,
+            0,
+            -5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-col-1-1",
+          "type": "column",
+          "position": [
+            3.6400000000000006,
+            2.8,
+            -5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-found-2",
+          "type": "foundation",
+          "position": [
+            -3.6400000000000006,
+            -0.2,
+            5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-col-2-0",
+          "type": "column",
+          "position": [
+            -3.6400000000000006,
+            0,
+            5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-col-2-1",
+          "type": "column",
+          "position": [
+            -3.6400000000000006,
+            2.8,
+            5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-found-3",
+          "type": "foundation",
+          "position": [
+            3.6400000000000006,
+            -0.2,
+            5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-col-3-0",
+          "type": "column",
+          "position": [
+            3.6400000000000006,
+            0,
+            5.460000000000001
+          ]
+        },
+        {
+          "id": "struct-col-3-1",
+          "type": "column",
+          "position": [
+            3.6400000000000006,
+            2.8,
+            5.460000000000001
+          ]
+        },
+        {
+          "id": "living-room-0",
+          "type": "living",
+          "position": [
+            0,
+            0.1,
+            -1.0920000000000003
+          ]
+        },
+        {
+          "id": "label-living",
+          "type": "text",
+          "position": [
+            0,
+            0.5,
+            -1.0920000000000003
+          ],
+          "customVal": "LIVING ROOM"
+        },
+        {
+          "id": "kitchen-0",
+          "type": "kitchen",
+          "position": [
+            -1.6016000000000004,
+            0.1,
+            2.1840000000000006
+          ]
+        },
+        {
+          "id": "label-kitchen",
+          "type": "text",
+          "position": [
+            -1.6016000000000004,
+            0.5,
+            2.1840000000000006
+          ],
+          "customVal": "KITCHEN"
+        },
+        {
+          "id": "bathroom-0",
+          "type": "bathroom",
+          "position": [
+            1.6016000000000004,
+            0.1,
+            2.7300000000000004
+          ]
+        },
+        {
+          "id": "label-bath-0",
+          "type": "text",
+          "position": [
+            1.6016000000000004,
+            0.5,
+            2.7300000000000004
+          ],
+          "customVal": "BATH 1"
+        },
+        {
+          "id": "bathroom-1",
+          "type": "bathroom",
+          "position": [
+            1.6016000000000004,
+            2.9,
+            2.7300000000000004
+          ]
+        },
+        {
+          "id": "label-bath-1",
+          "type": "text",
+          "position": [
+            1.6016000000000004,
+            3.3,
+            2.7300000000000004
+          ],
+          "customVal": "BATH 2"
+        },
+        {
+          "id": "bedroom-0",
+          "type": "bedroom",
+          "position": [
+            -1.6016000000000004,
+            0.1,
+            -2.4024000000000005
+          ]
+        },
+        {
+          "id": "label-bed-0",
+          "type": "text",
+          "position": [
+            -1.6016000000000004,
+            0.5,
+            -2.4024000000000005
+          ],
+          "customVal": "MASTER BED"
+        },
+        {
+          "id": "bedroom-1",
+          "type": "bedroom",
+          "position": [
+            1.6016000000000004,
+            2.9,
+            -2.4024000000000005
+          ]
+        },
+        {
+          "id": "label-bed-1",
+          "type": "text",
+          "position": [
+            1.6016000000000004,
+            3.3,
+            -2.4024000000000005
+          ],
+          "customVal": "BEDROOM 2"
+        },
+        {
+          "id": "bedroom-2",
+          "type": "bedroom",
+          "position": [
+            -1.6016000000000004,
+            0.1,
+            2.4024000000000005
+          ]
+        },
+        {
+          "id": "label-bed-2",
+          "type": "text",
+          "position": [
+            -1.6016000000000004,
+            0.5,
+            2.4024000000000005
+          ],
+          "customVal": "BEDROOM 3"
+        },
+        {
+          "id": "mep-duct-0",
+          "type": "duct",
+          "position": [
+            0,
+            0.1,
+            0
+          ]
+        },
+        {
+          "id": "mep-light-0-1",
+          "type": "light",
+          "position": [
+            -0.8736000000000002,
+            0.1,
+            0
+          ]
+        },
+        {
+          "id": "mep-light-0-2",
+          "type": "light",
+          "position": [
+            0.8736000000000002,
+            0.1,
+            0
+          ]
+        },
+        {
+          "id": "mep-duct-1",
+          "type": "duct",
+          "position": [
+            0,
+            2.9,
+            0
+          ]
+        },
+        {
+          "id": "mep-light-1-1",
+          "type": "light",
+          "position": [
+            -0.8736000000000002,
+            2.9,
+            0
+          ]
+        },
+        {
+          "id": "mep-light-1-2",
+          "type": "light",
+          "position": [
+            0.8736000000000002,
+            2.9,
+            0
+          ]
+        },
+        {
+          "id": "vastu-tag-ne",
+          "type": "tag",
+          "position": [
+            2.912000000000001,
+            0.2,
+            -4.368000000000001
+          ],
+          "customVal": "VASTU: WATER ELEMENT (NE)"
+        },
+        {
+          "id": 1785736235911,
+          "type": "bedroom",
+          "position": [
+            -14.979572412471796,
+            0,
+            -7.814468515633937
+          ]
+        },
+        {
+          "id": 1785736237350,
+          "type": "bedroom",
+          "position": [
+            -0.23056681846748006,
+            0,
+            7.679365936772529
+          ]
+        },
+        {
+          "id": 1785736238605,
+          "type": "bedroom",
+          "position": [
+            -0.23056681846748006,
+            0,
+            7.679365936772529
+          ]
+        },
+        {
+          "id": 1785736241858,
+          "type": "bedroom",
+          "position": [
+            -43.33603140481325,
+            0,
+            -91.18845939082485
+          ]
+        },
+        {
+          "id": 1785736242966,
+          "type": "bedroom",
+          "position": [
+            -18.89259174527347,
+            0,
+            -34.763709687037306
+          ]
+        }
+      ],
+      "id": "project-1785736107684",
+      "updatedAt": "2026-08-03T05:56:51.841Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 4,
+      "bhk": 4,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": true,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785736652207",
+      "updatedAt": "2026-08-03T06:05:29.847Z",
+      "name": "My Villa Project",
+      "budgetLakhs": 70,
+      "hasVastu": true
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785737264410",
+      "updatedAt": "2026-08-03T06:07:46.048Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "placedObjects": [],
+      "name": "New BIM Project",
+      "id": "project-1785737358712",
+      "updatedAt": "2026-08-03T06:09:20.421Z"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1785737489931",
+      "updatedAt": "2026-08-03T06:11:29.931Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "placedObjects": [],
+      "name": "New BIM Project",
+      "id": "project-1785737493141",
+      "updatedAt": "2026-08-03T06:11:34.809Z"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786079503186",
+      "updatedAt": "2026-08-07T05:11:44.793Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 51,
+      "plotDepth": 52,
+      "plotFacing": "north",
+      "floors": 4,
+      "bhk": 5,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "traditional",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "placedObjects": [
+        {
+          "id": 1786079787621,
+          "type": "wall",
+          "position": [
+            -16.643086417969133,
+            0,
+            -34.594887162253144
+          ]
+        },
+        {
+          "id": 1786079792968,
+          "type": "door",
+          "position": [
+            -4.828605609535164,
+            0,
+            -6.205945463060996
+          ]
+        },
+        {
+          "id": 1786079799139,
+          "type": "bedroom",
+          "position": [
+            -9.164354585832369,
+            0,
+            -1.262277859843298
+          ]
+        },
+        {
+          "id": 1786079802110,
+          "type": "living",
+          "position": [
+            -8.414004101223252,
+            0,
+            3.6778717515644495
+          ]
+        },
+        {
+          "id": 1786079806530,
+          "type": "kitchen",
+          "position": [
+            -9.256929261662053,
+            0,
+            6.358923189964955
+          ]
+        },
+        {
+          "id": 1786079807609,
+          "type": "kitchen",
+          "position": [
+            -9.256929261662053,
+            0,
+            6.358923189964955
+          ]
+        },
+        {
+          "id": 1786079813245,
+          "type": "bathroom",
+          "position": [
+            -4.400708230711258,
+            0,
+            8.431511167972303
+          ]
+        },
+        {
+          "id": 1786079814601,
+          "type": "bathroom",
+          "position": [
+            -3.814532970229268,
+            0,
+            7.959381200427586
+          ]
+        },
+        {
+          "id": 1786079820854,
+          "type": "bathroom",
+          "position": [
+            0.9833336735496729,
+            0,
+            9.242717763051305
+          ]
+        },
+        {
+          "id": 1786079824718,
+          "type": "pool",
+          "position": [
+            -9.007999061105199,
+            0,
+            -8.62730558308626
+          ]
+        },
+        {
+          "id": 1786079829885,
+          "type": "pool",
+          "position": [
+            -2.7371946084366847,
+            0,
+            -6.446441222675526
+          ]
+        },
+        {
+          "id": 1786079835559,
+          "type": "dim",
+          "position": [
+            6.387939217777754,
+            0.1,
+            -8.057825087244806
+          ],
+          "customVal": "DIM: 5 ft"
+        },
+        {
+          "id": 1786079837404,
+          "type": "dim",
+          "position": [
+            -66.09680215170704,
+            0.1,
+            18.193256177850532
+          ],
+          "customVal": "DIM: 27 ft"
+        },
+        {
+          "id": 1786079837836,
+          "type": "dim",
+          "position": [
+            -66.07685556653826,
+            0.1,
+            18.265568249404055
+          ],
+          "customVal": "DIM: 5 ft"
+        },
+        {
+          "id": 1786079956276,
+          "type": "ai-cost",
+          "position": [
+            -17.34684083926613,
+            0,
+            -25.771737185612835
+          ]
+        }
+      ],
+      "name": "New BIM Project",
+      "id": "project-1786079525945",
+      "updatedAt": "2026-08-07T05:19:17.791Z"
+    },
+    {
+      "buildingType": "apartment",
+      "plotWidth": 47,
+      "plotDepth": 58,
+      "plotFacing": "west",
+      "floors": 3,
+      "bhk": 4,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "medium",
+      "architecturalStyle": "luxury",
+      "materials": [
+        "brick",
+        "steel",
+        "wood",
+        "aac",
+        "glass",
+        "composite",
+        "eco"
+      ],
+      "climate": "earthquake",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": false,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": false,
+      "hasPrayerRoom": false,
+      "soilType": "soft clay",
+      "generatedByAI": true,
+      "id": "project-1786080079497",
+      "updatedAt": "2026-08-07T05:21:21.052Z",
+      "name": "My Apartment Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": false,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": false,
+      "hasTerrace": false,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": true,
+      "id": "project-1786080801163",
+      "updatedAt": "2026-08-07T05:35:30.843Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": false,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": false,
+      "hasTerrace": false,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": true,
+      "id": "project-1786080994079",
+      "updatedAt": "2026-08-07T05:37:19.891Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": false,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": false,
+      "hasTerrace": false,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": true,
+      "id": "project-1786081097194",
+      "updatedAt": "2026-08-07T05:38:18.825Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786081335361",
+      "updatedAt": "2026-08-07T05:42:44.206Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "apartment",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 4,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786082126857",
+      "updatedAt": "2026-08-07T05:56:42.197Z",
+      "name": "My Villa Project",
+      "placedObjects": [
+        {
+          "id": 1786082135192,
+          "type": "wall",
+          "position": [
+            2.2908687709255346,
+            0,
+            -17.106803058989257
+          ]
+        },
+        {
+          "id": 1786082136501,
+          "type": "wall",
+          "position": [
+            5.579715955723952,
+            0,
+            -24.029974500900916
+          ]
+        },
+        {
+          "id": 1786082139618,
+          "type": "wall",
+          "position": [
+            -5.548080618993069,
+            0,
+            -3.9215789132488474
+          ]
+        },
+        {
+          "id": 1786082141717,
+          "type": "wall",
+          "position": [
+            -5.40744624595298,
+            0,
+            -1.4552670013376812
+          ]
+        },
+        {
+          "id": 1786082143337,
+          "type": "wall",
+          "position": [
+            -5.401160078608359,
+            0,
+            0.5404422265764097
+          ]
+        },
+        {
+          "id": 1786082145127,
+          "type": "wall",
+          "position": [
+            -5.486040590264451,
+            0,
+            2.358688700798261
+          ]
+        },
+        {
+          "id": 1786082146562,
+          "type": "wall",
+          "position": [
+            -5.632334284987937,
+            0,
+            3.9105182830224976
+          ]
+        },
+        {
+          "id": 1786082147838,
+          "type": "wall",
+          "position": [
+            -5.581457206619289,
+            0,
+            5.575152115494243
+          ]
+        },
+        {
+          "id": 1786082149121,
+          "type": "wall",
+          "position": [
+            -5.4297895688747095,
+            0,
+            7.459120550881618
+          ]
+        },
+        {
+          "id": 1786082150655,
+          "type": "wall",
+          "position": [
+            -3.7054448906953485,
+            0,
+            8.196440091747185
+          ]
+        },
+        {
+          "id": 1786082154560,
+          "type": "floor",
+          "position": [
+            17.91028504115156,
+            0,
+            -20.154130459576265
+          ]
+        },
+        {
+          "id": 1786082155776,
+          "type": "floor",
+          "position": [
+            -2.6213241765098463,
+            0,
+            -1.3025796625244972
+          ]
+        },
+        {
+          "id": 1786082158927,
+          "type": "ceiling",
+          "position": [
+            4.3059934431327775,
+            0,
+            -4.463443411358494
+          ]
+        },
+        {
+          "id": 1786082181793,
+          "type": "ceiling",
+          "position": [
+            15.58116852276742,
+            0,
+            -34.28420094574317
+          ]
+        },
+        {
+          "id": 1786082184278,
+          "type": "ceiling",
+          "position": [
+            -2.770287437367008,
+            0,
+            -1.3285125942697817
+          ]
+        },
+        {
+          "id": 1786082186638,
+          "type": "ceiling",
+          "position": [
+            -0.9434400557290346,
+            0,
+            -5.078295688364541
+          ]
+        },
+        {
+          "id": 1786082190304,
+          "type": "ceiling",
+          "position": [
+            2.480899629213072,
+            0,
+            -4.083939645095565
+          ]
+        },
+        {
+          "id": 1786082196597,
+          "type": "wall",
+          "position": [
+            -0.3625615525736734,
+            0,
+            -0.9800916612636499
+          ]
+        },
+        {
+          "id": 1786082199100,
+          "type": "wall",
+          "position": [
+            0.8009786604331683,
+            0,
+            3.887102053277598
+          ]
+        },
+        {
+          "id": 1786082200664,
+          "type": "wall",
+          "position": [
+            1.5750864546883339,
+            0,
+            7.805078479108893
+          ]
+        }
+      ]
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 3,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786082516614",
+      "updatedAt": "2026-08-07T06:02:39.724Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 3,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786082569516",
+      "updatedAt": "2026-08-07T06:02:52.170Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 3,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": true,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786082681010",
+      "updatedAt": "2026-08-07T06:13:08.846Z",
+      "name": "My Villa Project",
+      "placedObjects": [
+        {
+          "id": 1786082685062,
+          "type": "roof",
+          "position": [
+            -0.9757874157950948,
+            0,
+            1.4134255634709945
+          ]
+        },
+        {
+          "id": 1786082686014,
+          "type": "roof",
+          "position": [
+            -0.9757874157950948,
+            0,
+            1.4134255634709945
+          ]
+        },
+        {
+          "id": 1786082688360,
+          "type": "roof",
+          "position": [
+            -3.7512229663646366,
+            0,
+            1.9201627261035499
+          ]
+        },
+        {
+          "id": 1786082706591,
+          "type": "roof",
+          "position": [
+            -6.798081535131249,
+            0,
+            2.590248721947452
+          ]
+        },
+        {
+          "id": 1786082709558,
+          "type": "roof",
+          "position": [
+            3.829826505830251,
+            0,
+            -0.28582916538291414
+          ]
+        },
+        {
+          "id": 1786082756084,
+          "type": "roof",
+          "position": [
+            7.197113455811712,
+            0,
+            5.511038565065448
+          ]
+        }
+      ]
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786083005655",
+      "updatedAt": "2026-08-07T06:13:08.842Z",
+      "name": "My Villa Project",
+      "placedObjects": [
+        {
+          "id": 1786083011773,
+          "type": "stair",
+          "position": [
+            1.2477792097499805,
+            0,
+            -1.1382979241307325
+          ]
+        },
+        {
+          "id": 1786083013105,
+          "type": "stair",
+          "position": [
+            0.00660926175273957,
+            0,
+            -2.3770765172230703
+          ]
+        },
+        {
+          "id": 1786083016824,
+          "type": "stair",
+          "position": [
+            5.02960328937648,
+            0,
+            13.225500960564773
+          ]
+        },
+        {
+          "id": 1786083018240,
+          "type": "stair",
+          "position": [
+            6.269807811782372,
+            0,
+            17.721734176837323
+          ]
+        },
+        {
+          "id": 1786083020934,
+          "type": "stair",
+          "position": [
+            2.1898901006819536,
+            0,
+            10.584260112555313
+          ]
+        },
+        {
+          "id": 1786083024507,
+          "type": "stair",
+          "position": [
+            0.09930323587011736,
+            0,
+            0.5860513902725231
+          ]
+        },
+        {
+          "id": 1786083028423,
+          "type": "ramp",
+          "position": [
+            3.6095344216255447,
+            0,
+            11.27081722982366
+          ]
+        },
+        {
+          "id": 1786083029454,
+          "type": "ramp",
+          "position": [
+            3.7377939234389825,
+            0,
+            -4.262400490465055
+          ]
+        },
+        {
+          "id": 1786083030638,
+          "type": "ramp",
+          "position": [
+            -1.7478972407001034,
+            0,
+            -8.476375963229128
+          ]
+        },
+        {
+          "id": 1786083033141,
+          "type": "railing",
+          "position": [
+            -3.6135421181680605,
+            0,
+            8.777236679711901
+          ]
+        },
+        {
+          "id": 1786083034138,
+          "type": "railing",
+          "position": [
+            -1.8298683523622807,
+            0,
+            -5.837465574700133
+          ]
+        },
+        {
+          "id": 1786083037529,
+          "type": "lift",
+          "position": [
+            -4.2494668204243435,
+            0,
+            -2.21842852045776
+          ]
+        }
+      ]
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786083387244",
+      "updatedAt": "2026-08-07T06:20:29.855Z",
+      "name": "My Villa Project",
+      "placedObjects": [
+        {
+          "id": 1786083470357,
+          "type": "steel-beam",
+          "position": [
+            -1.7716113685799346,
+            0,
+            -2.6228778322296087
+          ]
+        }
+      ]
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786083694282",
+      "updatedAt": "2026-08-07T06:24:57.673Z",
+      "name": "My Villa Project",
+      "placedObjects": [
+        {
+          "id": 1786083769446,
+          "type": "room",
+          "position": [
+            0.9971497995444176,
+            0,
+            1.5925290545303321
+          ]
+        },
+        {
+          "id": 1786083770661,
+          "type": "room",
+          "position": [
+            0.9971497995444176,
+            0,
+            1.5925290545303321
+          ]
+        },
+        {
+          "id": 1786083773692,
+          "type": "room",
+          "position": [
+            1.9747022322233454,
+            8.55,
+            4.872237768927992
+          ]
+        },
+        {
+          "id": 1786083775899,
+          "type": "room",
+          "position": [
+            1.9695056336027472,
+            0,
+            -4.514685998983697
+          ]
+        },
+        {
+          "id": 1786083777350,
+          "type": "room",
+          "position": [
+            1.8865722294353238,
+            0,
+            -1.4366403358777706
+          ]
+        },
+        {
+          "id": 1786083781045,
+          "type": "curtain",
+          "position": [
+            -1.1984858744835913,
+            0,
+            -1.8993474083298594
+          ]
+        },
+        {
+          "id": 1786083789091,
+          "type": "curtain",
+          "position": [
+            74.80391764943181,
+            0,
+            91.74898336964456
+          ]
+        },
+        {
+          "id": 1786083845861,
+          "type": "curtain",
+          "position": [
+            -2.7994922081613325,
+            0,
+            1.6088570044509218
+          ]
+        },
+        {
+          "id": 1786083850519,
+          "type": "curtain",
+          "position": [
+            0.9958422926790504,
+            0,
+            4.746230705601853
+          ]
+        },
+        {
+          "id": 1786083852421,
+          "type": "curtain",
+          "position": [
+            1.1676548659762265,
+            0,
+            4.020625218047384
+          ]
+        },
+        {
+          "id": 1786083855918,
+          "type": "curtain",
+          "position": [
+            -4.600468859446924,
+            0,
+            6.223117607330789
+          ]
+        },
+        {
+          "id": 1786083861814,
+          "type": "curtain",
+          "position": [
+            50.08643708824818,
+            0,
+            6.5122615672090625
+          ]
+        },
+        {
+          "id": 1786083869308,
+          "type": "room",
+          "position": [
+            3.474702232223345,
+            8.55,
+            6.372237768927992
+          ]
+        },
+        {
+          "id": 1786083870440,
+          "type": "room",
+          "position": [
+            4.974702232223345,
+            4.05,
+            7.872237768927992
+          ]
+        },
+        {
+          "id": 1786083890972,
+          "type": "room",
+          "position": [
+            6.474702232223345,
+            4.05,
+            9.372237768927992
+          ]
+        },
+        {
+          "id": 1786083896152,
+          "type": "curtain",
+          "position": [
+            -1.061370639081895,
+            0,
+            5.048353189454101
+          ]
+        }
+      ]
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 3,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": true,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786084023847",
+      "updatedAt": "2026-08-07T06:27:13.810Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786084083507",
+      "updatedAt": "2026-08-07T06:28:05.057Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786084128938",
+      "updatedAt": "2026-08-07T06:29:52.839Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 4,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786084211992",
+      "updatedAt": "2026-08-07T06:55:50.616Z",
+      "name": "Vastu Residential Villa",
+      "placedObjects": [
+        {
+          "id": 1786084446841,
+          "type": "footing",
+          "position": [
+            1.1700568430898688,
+            0,
+            -1.6833205611910138
+          ]
+        },
+        {
+          "id": 1786084450211,
+          "type": "footing",
+          "position": [
+            -3.948072882822778,
+            0,
+            -9.929097772951664
+          ]
+        },
+        {
+          "id": 1786084451169,
+          "type": "footing",
+          "position": [
+            -2.017051003900188,
+            0,
+            -9.87182661969831
+          ]
+        },
+        {
+          "id": 1786084452050,
+          "type": "footing",
+          "position": [
+            3.1478439104802822,
+            0,
+            -13.787147361319022
+          ]
+        },
+        {
+          "id": 1786084534582,
+          "type": "footing",
+          "position": [
+            1.5112334279573716,
+            0,
+            4.67657676609095
+          ]
+        },
+        {
+          "id": 1786084539350,
+          "type": "footing",
+          "position": [
+            -1.2814594640024801,
+            0,
+            0.03931378478941383
+          ]
+        },
+        {
+          "id": 1786084540484,
+          "type": "footing",
+          "position": [
+            -1.1125161338201606,
+            0,
+            5.315852510427899
+          ]
+        },
+        {
+          "id": 1786084544114,
+          "type": "footing",
+          "position": [
+            -3.5719891512980855,
+            0,
+            1.8613692147049221
+          ]
+        },
+        {
+          "id": 1786084545733,
+          "type": "footing",
+          "position": [
+            -3.5719891512980855,
+            0,
+            1.8613692147049221
+          ]
+        },
+        {
+          "id": 1786084553785,
+          "type": "footing",
+          "position": [
+            3.4790463976079207,
+            0,
+            1.4175349875193426
+          ]
+        },
+        {
+          "id": 1786084554989,
+          "type": "footing",
+          "position": [
+            4.6057482237138405,
+            0,
+            -8.962150713858684
+          ]
+        },
+        {
+          "id": 1786084557906,
+          "type": "foundation",
+          "position": [
+            -0.8903822068964953,
+            0,
+            3.0004518119465047
+          ]
+        },
+        {
+          "id": 1786084564679,
+          "type": "beam",
+          "position": [
+            3.4247895086164903,
+            0,
+            5.7902273575990115
+          ]
+        },
+        {
+          "id": 1786084566141,
+          "type": "beam",
+          "position": [
+            1.3722257107086624,
+            0,
+            4.421570893625763
+          ]
+        },
+        {
+          "id": 1786084569792,
+          "type": "col",
+          "position": [
+            5.466916131883609,
+            0,
+            -17.73198825259167
+          ]
+        },
+        {
+          "id": 1786084571714,
+          "type": "col",
+          "position": [
+            4.344790147496681,
+            0,
+            4.635945085926988
+          ]
+        },
+        {
+          "id": 1786084571992,
+          "type": "col",
+          "position": [
+            4.344790147496681,
+            0,
+            4.635945085926988
+          ]
+        },
+        {
+          "id": 1786084573005,
+          "type": "col",
+          "position": [
+            4.344790147496681,
+            0,
+            4.635945085926988
+          ]
+        },
+        {
+          "id": 1786084586148,
+          "type": "beam",
+          "position": [
+            -3.2761702214201054,
+            0,
+            9.204160362197797
+          ]
+        },
+        {
+          "id": 1786084589131,
+          "type": "beam",
+          "position": [
+            -4.11240398651988,
+            0,
+            7.007678947803722
+          ]
+        },
+        {
+          "id": 1786084600523,
+          "type": "raft",
+          "position": [
+            3.004121360906491,
+            0,
+            4.212769308412508
+          ]
+        },
+        {
+          "id": 1786084609556,
+          "type": "slab",
+          "position": [
+            -0.1725891681078311,
+            0,
+            -46.578930812786055
+          ]
+        },
+        {
+          "id": 1786084632940,
+          "type": "wall",
+          "position": [
+            -4.53211242904755,
+            0,
+            3.7330213176541633
+          ]
+        },
+        {
+          "id": 1786084634312,
+          "type": "wall",
+          "position": [
+            -3.3180427005229554,
+            0,
+            3.911631368368905
+          ]
+        },
+        {
+          "id": 1786084635295,
+          "type": "wall",
+          "position": [
+            -2.544525245759136,
+            0,
+            3.3522100197744606
+          ]
+        },
+        {
+          "id": 1786084636245,
+          "type": "wall",
+          "position": [
+            -1.5714478008279644,
+            0,
+            2.6056882067981064
+          ]
+        },
+        {
+          "id": 1786084649975,
+          "type": "door",
+          "position": [
+            0.48302444058004723,
+            0,
+            7.9362398018318
+          ]
+        },
+        {
+          "id": 1786084655456,
+          "type": "window",
+          "position": [
+            3.529332174169561,
+            0,
+            -0.35799395121849287
+          ]
+        },
+        {
+          "id": 1786084656639,
+          "type": "window",
+          "position": [
+            5.163145376974384,
+            0,
+            -62.21745159184508
+          ]
+        },
+        {
+          "id": 1786084675074,
+          "type": "stair",
+          "position": [
+            3.9184194753846886,
+            0,
+            5.818078510284707
+          ]
+        },
+        {
+          "id": 1786084692090,
+          "type": "roof",
+          "position": [
+            2.0763790988295754,
+            0,
+            -17.59035860765467
+          ]
+        },
+        {
+          "id": 1786084731187,
+          "type": "light",
+          "position": [
+            -8.27975152765126,
+            0,
+            -36.27788775182093
+          ]
+        },
+        {
+          "id": 1786084731461,
+          "type": "light",
+          "position": [
+            -8.27975152765126,
+            0,
+            -36.27788775182093
+          ]
+        },
+        {
+          "id": 1786084735221,
+          "type": "light",
+          "position": [
+            0.9197234839446558,
+            0,
+            -2.7099505427714634
+          ]
+        },
+        {
+          "id": 1786084856458,
+          "type": "bedroom",
+          "position": [
+            0.19513898362268323,
+            0,
+            -4.00602759876112
+          ]
+        },
+        {
+          "id": 1786084860627,
+          "type": "living",
+          "position": [
+            -2.246635636058745,
+            0,
+            -7.065471100127697
+          ]
+        },
+        {
+          "id": 1786084863437,
+          "type": "bathroom",
+          "position": [
+            2.0086872214682816,
+            0,
+            -6.650508864068332
+          ]
+        }
+      ]
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "placedObjects": [],
+      "name": "New BIM Project",
+      "id": "project-1786085757277",
+      "updatedAt": "2026-08-07T06:55:58.829Z"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": false,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": false,
+      "hasTerrace": false,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": true,
+      "id": "project-1786085813940",
+      "updatedAt": "2026-08-07T06:56:55.572Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": false,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": false,
+      "hasTerrace": false,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": true,
+      "id": "project-1786086336587",
+      "updatedAt": "2026-08-07T07:05:38.263Z",
+      "name": "My Villa Project"
+    },
+    {
+      "buildingType": "hospital",
+      "plotWidth": 80,
+      "plotDepth": 100,
+      "plotFacing": "north",
+      "floors": 3,
+      "bhk": 12,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1786105199723",
+      "updatedAt": "2026-08-07T12:21:12.963Z",
+      "name": "Healthcare Center & Hospital",
+      "placedObjects": [
+        {
+          "id": 1786105264858,
+          "type": "footing",
+          "position": [
+            -3.044406628069245,
+            0,
+            0.34999488758523256
+          ]
+        },
+        {
+          "id": 1786105267221,
+          "type": "footing",
+          "position": [
+            -0.16628388090297186,
+            0,
+            -1.5382305949651993
+          ]
+        },
+        {
+          "id": 1786105268188,
+          "type": "footing",
+          "position": [
+            2.569603452099046,
+            0,
+            0.3019035087286923
+          ]
+        },
+        {
+          "id": 1786105269012,
+          "type": "footing",
+          "position": [
+            1.841022704948026,
+            0,
+            6.908844798282036
+          ]
+        },
+        {
+          "id": 1786105271421,
+          "type": "footing",
+          "position": [
+            4.22253974568771,
+            0,
+            6.36083435877293
+          ]
+        }
+      ]
+    },
+    {
+      "buildingType": "villa",
+      "plotWidth": 40,
+      "plotDepth": 60,
+      "plotFacing": "north",
+      "floors": 2,
+      "bhk": 3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "budgetLevel": "premium",
+      "architecturalStyle": "modern",
+      "materials": [
+        "concrete",
+        "brick"
+      ],
+      "climate": "hot",
+      "hasPool": false,
+      "hasSolar": true,
+      "hasLift": false,
+      "hasGarden": true,
+      "hasParking": true,
+      "hasGym": false,
+      "hasHomeTheater": false,
+      "hasBalcony": true,
+      "hasTerrace": true,
+      "hasPrayerRoom": false,
+      "soilType": "medium",
+      "generatedByAI": false,
+      "id": "project-1792395842225",
+      "updatedAt": "2026-10-19T07:44:15.726Z",
+      "name": "Vastu Residential Villa"
+    }
+  ],
+  "chats": [
+    {
+      "timestamp": "2026-08-03T05:58:12.142Z",
+      "message": "Add one more floor",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T05:58:39.283Z",
+      "message": "Add swimming pool",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T05:58:50.545Z",
+      "message": "Show structural view",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T05:58:53.374Z",
+      "message": "Show MEP overlay",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T05:58:56.974Z",
+      "message": "Show sunlight study",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T05:59:00.247Z",
+      "message": "Make Vastu compliant",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T05:59:06.825Z",
+      "message": "hi",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T05:59:29.773Z",
+      "message": "i need to build villa in best price",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T06:00:04.392Z",
+      "message": "Add one more floor",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T06:00:07.263Z",
+      "message": "Add one more floor",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 3,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T06:00:16.504Z",
+      "message": "Add swimming pool",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 4,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T06:00:24.598Z",
+      "message": "Show structural view",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 4,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T06:00:31.203Z",
+      "message": "Show sunlight study",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 4,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-03T06:04:42.417Z",
+      "message": "build a  new project",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 4,
+        "bhk": 4,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1785736652207",
+        "budgetLakhs": 70,
+        "hasVastu": true
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:02:16.322Z",
+      "message": "add a ground floor",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786082516614"
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:02:50.649Z",
+      "message": "Add one more floor",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786082569516"
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:05:26.475Z",
+      "message": "Add one more floor",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786082681010",
+        "placedObjects": [
+          {
+            "id": 1786082685062,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082686014,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082688360,
+            "type": "roof",
+            "position": [
+              -3.7512229663646366,
+              0,
+              1.9201627261035499
+            ]
+          },
+          {
+            "id": 1786082706591,
+            "type": "roof",
+            "position": [
+              -6.798081535131249,
+              0,
+              2.590248721947452
+            ]
+          },
+          {
+            "id": 1786082709558,
+            "type": "roof",
+            "position": [
+              3.829826505830251,
+              0,
+              -0.28582916538291414
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:05:28.310Z",
+      "message": "Add swimming pool",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 3,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786082681010",
+        "placedObjects": [
+          {
+            "id": 1786082685062,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082686014,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082688360,
+            "type": "roof",
+            "position": [
+              -3.7512229663646366,
+              0,
+              1.9201627261035499
+            ]
+          },
+          {
+            "id": 1786082706591,
+            "type": "roof",
+            "position": [
+              -6.798081535131249,
+              0,
+              2.590248721947452
+            ]
+          },
+          {
+            "id": 1786082709558,
+            "type": "roof",
+            "position": [
+              3.829826505830251,
+              0,
+              -0.28582916538291414
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:05:42.614Z",
+      "message": "Show MEP overlay",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 3,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786082681010",
+        "placedObjects": [
+          {
+            "id": 1786082685062,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082686014,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082688360,
+            "type": "roof",
+            "position": [
+              -3.7512229663646366,
+              0,
+              1.9201627261035499
+            ]
+          },
+          {
+            "id": 1786082706591,
+            "type": "roof",
+            "position": [
+              -6.798081535131249,
+              0,
+              2.590248721947452
+            ]
+          },
+          {
+            "id": 1786082709558,
+            "type": "roof",
+            "position": [
+              3.829826505830251,
+              0,
+              -0.28582916538291414
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:05:45.131Z",
+      "message": "Show structural view",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 3,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786082681010",
+        "placedObjects": [
+          {
+            "id": 1786082685062,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082686014,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082688360,
+            "type": "roof",
+            "position": [
+              -3.7512229663646366,
+              0,
+              1.9201627261035499
+            ]
+          },
+          {
+            "id": 1786082706591,
+            "type": "roof",
+            "position": [
+              -6.798081535131249,
+              0,
+              2.590248721947452
+            ]
+          },
+          {
+            "id": 1786082709558,
+            "type": "roof",
+            "position": [
+              3.829826505830251,
+              0,
+              -0.28582916538291414
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:05:50.593Z",
+      "message": "Show sunlight study",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 3,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786082681010",
+        "placedObjects": [
+          {
+            "id": 1786082685062,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082686014,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082688360,
+            "type": "roof",
+            "position": [
+              -3.7512229663646366,
+              0,
+              1.9201627261035499
+            ]
+          },
+          {
+            "id": 1786082706591,
+            "type": "roof",
+            "position": [
+              -6.798081535131249,
+              0,
+              2.590248721947452
+            ]
+          },
+          {
+            "id": 1786082709558,
+            "type": "roof",
+            "position": [
+              3.829826505830251,
+              0,
+              -0.28582916538291414
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:05:51.411Z",
+      "message": "Show sunlight study",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 3,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786082681010",
+        "placedObjects": [
+          {
+            "id": 1786082685062,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082686014,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082688360,
+            "type": "roof",
+            "position": [
+              -3.7512229663646366,
+              0,
+              1.9201627261035499
+            ]
+          },
+          {
+            "id": 1786082706591,
+            "type": "roof",
+            "position": [
+              -6.798081535131249,
+              0,
+              2.590248721947452
+            ]
+          },
+          {
+            "id": 1786082709558,
+            "type": "roof",
+            "position": [
+              3.829826505830251,
+              0,
+              -0.28582916538291414
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:05:54.468Z",
+      "message": "Make Vastu compliant",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 3,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": true,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786082681010",
+        "placedObjects": [
+          {
+            "id": 1786082685062,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082686014,
+            "type": "roof",
+            "position": [
+              -0.9757874157950948,
+              0,
+              1.4134255634709945
+            ]
+          },
+          {
+            "id": 1786082688360,
+            "type": "roof",
+            "position": [
+              -3.7512229663646366,
+              0,
+              1.9201627261035499
+            ]
+          },
+          {
+            "id": 1786082706591,
+            "type": "roof",
+            "position": [
+              -6.798081535131249,
+              0,
+              2.590248721947452
+            ]
+          },
+          {
+            "id": 1786082709558,
+            "type": "roof",
+            "position": [
+              3.829826505830251,
+              0,
+              -0.28582916538291414
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:27:10.290Z",
+      "message": "Add one more floor",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786084023847"
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:27:12.286Z",
+      "message": "Add swimming pool",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 3,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786084023847"
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:41:42.287Z",
+      "message": "Add one more floor",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 2,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786084211992",
+        "name": "Vastu Residential Villa",
+        "placedObjects": [
+          {
+            "id": 1786084446841,
+            "type": "footing",
+            "position": [
+              1.1700568430898688,
+              0,
+              -1.6833205611910138
+            ]
+          },
+          {
+            "id": 1786084450211,
+            "type": "footing",
+            "position": [
+              -3.948072882822778,
+              0,
+              -9.929097772951664
+            ]
+          },
+          {
+            "id": 1786084451169,
+            "type": "footing",
+            "position": [
+              -2.017051003900188,
+              0,
+              -9.87182661969831
+            ]
+          },
+          {
+            "id": 1786084452050,
+            "type": "footing",
+            "position": [
+              3.1478439104802822,
+              0,
+              -13.787147361319022
+            ]
+          },
+          {
+            "id": 1786084534582,
+            "type": "footing",
+            "position": [
+              1.5112334279573716,
+              0,
+              4.67657676609095
+            ]
+          },
+          {
+            "id": 1786084539350,
+            "type": "footing",
+            "position": [
+              -1.2814594640024801,
+              0,
+              0.03931378478941383
+            ]
+          },
+          {
+            "id": 1786084540484,
+            "type": "footing",
+            "position": [
+              -1.1125161338201606,
+              0,
+              5.315852510427899
+            ]
+          },
+          {
+            "id": 1786084544114,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084545733,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084553785,
+            "type": "footing",
+            "position": [
+              3.4790463976079207,
+              0,
+              1.4175349875193426
+            ]
+          },
+          {
+            "id": 1786084554989,
+            "type": "footing",
+            "position": [
+              4.6057482237138405,
+              0,
+              -8.962150713858684
+            ]
+          },
+          {
+            "id": 1786084557906,
+            "type": "foundation",
+            "position": [
+              -0.8903822068964953,
+              0,
+              3.0004518119465047
+            ]
+          },
+          {
+            "id": 1786084564679,
+            "type": "beam",
+            "position": [
+              3.4247895086164903,
+              0,
+              5.7902273575990115
+            ]
+          },
+          {
+            "id": 1786084566141,
+            "type": "beam",
+            "position": [
+              1.3722257107086624,
+              0,
+              4.421570893625763
+            ]
+          },
+          {
+            "id": 1786084569792,
+            "type": "col",
+            "position": [
+              5.466916131883609,
+              0,
+              -17.73198825259167
+            ]
+          },
+          {
+            "id": 1786084571714,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084571992,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084573005,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084586148,
+            "type": "beam",
+            "position": [
+              -3.2761702214201054,
+              0,
+              9.204160362197797
+            ]
+          },
+          {
+            "id": 1786084589131,
+            "type": "beam",
+            "position": [
+              -4.11240398651988,
+              0,
+              7.007678947803722
+            ]
+          },
+          {
+            "id": 1786084600523,
+            "type": "raft",
+            "position": [
+              3.004121360906491,
+              0,
+              4.212769308412508
+            ]
+          },
+          {
+            "id": 1786084609556,
+            "type": "slab",
+            "position": [
+              -0.1725891681078311,
+              0,
+              -46.578930812786055
+            ]
+          },
+          {
+            "id": 1786084632940,
+            "type": "wall",
+            "position": [
+              -4.53211242904755,
+              0,
+              3.7330213176541633
+            ]
+          },
+          {
+            "id": 1786084634312,
+            "type": "wall",
+            "position": [
+              -3.3180427005229554,
+              0,
+              3.911631368368905
+            ]
+          },
+          {
+            "id": 1786084635295,
+            "type": "wall",
+            "position": [
+              -2.544525245759136,
+              0,
+              3.3522100197744606
+            ]
+          },
+          {
+            "id": 1786084636245,
+            "type": "wall",
+            "position": [
+              -1.5714478008279644,
+              0,
+              2.6056882067981064
+            ]
+          },
+          {
+            "id": 1786084649975,
+            "type": "door",
+            "position": [
+              0.48302444058004723,
+              0,
+              7.9362398018318
+            ]
+          },
+          {
+            "id": 1786084655456,
+            "type": "window",
+            "position": [
+              3.529332174169561,
+              0,
+              -0.35799395121849287
+            ]
+          },
+          {
+            "id": 1786084656639,
+            "type": "window",
+            "position": [
+              5.163145376974384,
+              0,
+              -62.21745159184508
+            ]
+          },
+          {
+            "id": 1786084675074,
+            "type": "stair",
+            "position": [
+              3.9184194753846886,
+              0,
+              5.818078510284707
+            ]
+          },
+          {
+            "id": 1786084692090,
+            "type": "roof",
+            "position": [
+              2.0763790988295754,
+              0,
+              -17.59035860765467
+            ]
+          },
+          {
+            "id": 1786084731187,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084731461,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084735221,
+            "type": "light",
+            "position": [
+              0.9197234839446558,
+              0,
+              -2.7099505427714634
+            ]
+          },
+          {
+            "id": 1786084856458,
+            "type": "bedroom",
+            "position": [
+              0.19513898362268323,
+              0,
+              -4.00602759876112
+            ]
+          },
+          {
+            "id": 1786084860627,
+            "type": "living",
+            "position": [
+              -2.246635636058745,
+              0,
+              -7.065471100127697
+            ]
+          },
+          {
+            "id": 1786084863437,
+            "type": "bathroom",
+            "position": [
+              2.0086872214682816,
+              0,
+              -6.650508864068332
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:42:10.303Z",
+      "message": "run final validation check",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 3,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786084211992",
+        "name": "Vastu Residential Villa",
+        "placedObjects": [
+          {
+            "id": 1786084446841,
+            "type": "footing",
+            "position": [
+              1.1700568430898688,
+              0,
+              -1.6833205611910138
+            ]
+          },
+          {
+            "id": 1786084450211,
+            "type": "footing",
+            "position": [
+              -3.948072882822778,
+              0,
+              -9.929097772951664
+            ]
+          },
+          {
+            "id": 1786084451169,
+            "type": "footing",
+            "position": [
+              -2.017051003900188,
+              0,
+              -9.87182661969831
+            ]
+          },
+          {
+            "id": 1786084452050,
+            "type": "footing",
+            "position": [
+              3.1478439104802822,
+              0,
+              -13.787147361319022
+            ]
+          },
+          {
+            "id": 1786084534582,
+            "type": "footing",
+            "position": [
+              1.5112334279573716,
+              0,
+              4.67657676609095
+            ]
+          },
+          {
+            "id": 1786084539350,
+            "type": "footing",
+            "position": [
+              -1.2814594640024801,
+              0,
+              0.03931378478941383
+            ]
+          },
+          {
+            "id": 1786084540484,
+            "type": "footing",
+            "position": [
+              -1.1125161338201606,
+              0,
+              5.315852510427899
+            ]
+          },
+          {
+            "id": 1786084544114,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084545733,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084553785,
+            "type": "footing",
+            "position": [
+              3.4790463976079207,
+              0,
+              1.4175349875193426
+            ]
+          },
+          {
+            "id": 1786084554989,
+            "type": "footing",
+            "position": [
+              4.6057482237138405,
+              0,
+              -8.962150713858684
+            ]
+          },
+          {
+            "id": 1786084557906,
+            "type": "foundation",
+            "position": [
+              -0.8903822068964953,
+              0,
+              3.0004518119465047
+            ]
+          },
+          {
+            "id": 1786084564679,
+            "type": "beam",
+            "position": [
+              3.4247895086164903,
+              0,
+              5.7902273575990115
+            ]
+          },
+          {
+            "id": 1786084566141,
+            "type": "beam",
+            "position": [
+              1.3722257107086624,
+              0,
+              4.421570893625763
+            ]
+          },
+          {
+            "id": 1786084569792,
+            "type": "col",
+            "position": [
+              5.466916131883609,
+              0,
+              -17.73198825259167
+            ]
+          },
+          {
+            "id": 1786084571714,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084571992,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084573005,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084586148,
+            "type": "beam",
+            "position": [
+              -3.2761702214201054,
+              0,
+              9.204160362197797
+            ]
+          },
+          {
+            "id": 1786084589131,
+            "type": "beam",
+            "position": [
+              -4.11240398651988,
+              0,
+              7.007678947803722
+            ]
+          },
+          {
+            "id": 1786084600523,
+            "type": "raft",
+            "position": [
+              3.004121360906491,
+              0,
+              4.212769308412508
+            ]
+          },
+          {
+            "id": 1786084609556,
+            "type": "slab",
+            "position": [
+              -0.1725891681078311,
+              0,
+              -46.578930812786055
+            ]
+          },
+          {
+            "id": 1786084632940,
+            "type": "wall",
+            "position": [
+              -4.53211242904755,
+              0,
+              3.7330213176541633
+            ]
+          },
+          {
+            "id": 1786084634312,
+            "type": "wall",
+            "position": [
+              -3.3180427005229554,
+              0,
+              3.911631368368905
+            ]
+          },
+          {
+            "id": 1786084635295,
+            "type": "wall",
+            "position": [
+              -2.544525245759136,
+              0,
+              3.3522100197744606
+            ]
+          },
+          {
+            "id": 1786084636245,
+            "type": "wall",
+            "position": [
+              -1.5714478008279644,
+              0,
+              2.6056882067981064
+            ]
+          },
+          {
+            "id": 1786084649975,
+            "type": "door",
+            "position": [
+              0.48302444058004723,
+              0,
+              7.9362398018318
+            ]
+          },
+          {
+            "id": 1786084655456,
+            "type": "window",
+            "position": [
+              3.529332174169561,
+              0,
+              -0.35799395121849287
+            ]
+          },
+          {
+            "id": 1786084656639,
+            "type": "window",
+            "position": [
+              5.163145376974384,
+              0,
+              -62.21745159184508
+            ]
+          },
+          {
+            "id": 1786084675074,
+            "type": "stair",
+            "position": [
+              3.9184194753846886,
+              0,
+              5.818078510284707
+            ]
+          },
+          {
+            "id": 1786084692090,
+            "type": "roof",
+            "position": [
+              2.0763790988295754,
+              0,
+              -17.59035860765467
+            ]
+          },
+          {
+            "id": 1786084731187,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084731461,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084735221,
+            "type": "light",
+            "position": [
+              0.9197234839446558,
+              0,
+              -2.7099505427714634
+            ]
+          },
+          {
+            "id": 1786084856458,
+            "type": "bedroom",
+            "position": [
+              0.19513898362268323,
+              0,
+              -4.00602759876112
+            ]
+          },
+          {
+            "id": 1786084860627,
+            "type": "living",
+            "position": [
+              -2.246635636058745,
+              0,
+              -7.065471100127697
+            ]
+          },
+          {
+            "id": 1786084863437,
+            "type": "bathroom",
+            "position": [
+              2.0086872214682816,
+              0,
+              -6.650508864068332
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:42:30.656Z",
+      "message": "Add one more floor",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 3,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786084211992",
+        "name": "Vastu Residential Villa",
+        "placedObjects": [
+          {
+            "id": 1786084446841,
+            "type": "footing",
+            "position": [
+              1.1700568430898688,
+              0,
+              -1.6833205611910138
+            ]
+          },
+          {
+            "id": 1786084450211,
+            "type": "footing",
+            "position": [
+              -3.948072882822778,
+              0,
+              -9.929097772951664
+            ]
+          },
+          {
+            "id": 1786084451169,
+            "type": "footing",
+            "position": [
+              -2.017051003900188,
+              0,
+              -9.87182661969831
+            ]
+          },
+          {
+            "id": 1786084452050,
+            "type": "footing",
+            "position": [
+              3.1478439104802822,
+              0,
+              -13.787147361319022
+            ]
+          },
+          {
+            "id": 1786084534582,
+            "type": "footing",
+            "position": [
+              1.5112334279573716,
+              0,
+              4.67657676609095
+            ]
+          },
+          {
+            "id": 1786084539350,
+            "type": "footing",
+            "position": [
+              -1.2814594640024801,
+              0,
+              0.03931378478941383
+            ]
+          },
+          {
+            "id": 1786084540484,
+            "type": "footing",
+            "position": [
+              -1.1125161338201606,
+              0,
+              5.315852510427899
+            ]
+          },
+          {
+            "id": 1786084544114,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084545733,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084553785,
+            "type": "footing",
+            "position": [
+              3.4790463976079207,
+              0,
+              1.4175349875193426
+            ]
+          },
+          {
+            "id": 1786084554989,
+            "type": "footing",
+            "position": [
+              4.6057482237138405,
+              0,
+              -8.962150713858684
+            ]
+          },
+          {
+            "id": 1786084557906,
+            "type": "foundation",
+            "position": [
+              -0.8903822068964953,
+              0,
+              3.0004518119465047
+            ]
+          },
+          {
+            "id": 1786084564679,
+            "type": "beam",
+            "position": [
+              3.4247895086164903,
+              0,
+              5.7902273575990115
+            ]
+          },
+          {
+            "id": 1786084566141,
+            "type": "beam",
+            "position": [
+              1.3722257107086624,
+              0,
+              4.421570893625763
+            ]
+          },
+          {
+            "id": 1786084569792,
+            "type": "col",
+            "position": [
+              5.466916131883609,
+              0,
+              -17.73198825259167
+            ]
+          },
+          {
+            "id": 1786084571714,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084571992,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084573005,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084586148,
+            "type": "beam",
+            "position": [
+              -3.2761702214201054,
+              0,
+              9.204160362197797
+            ]
+          },
+          {
+            "id": 1786084589131,
+            "type": "beam",
+            "position": [
+              -4.11240398651988,
+              0,
+              7.007678947803722
+            ]
+          },
+          {
+            "id": 1786084600523,
+            "type": "raft",
+            "position": [
+              3.004121360906491,
+              0,
+              4.212769308412508
+            ]
+          },
+          {
+            "id": 1786084609556,
+            "type": "slab",
+            "position": [
+              -0.1725891681078311,
+              0,
+              -46.578930812786055
+            ]
+          },
+          {
+            "id": 1786084632940,
+            "type": "wall",
+            "position": [
+              -4.53211242904755,
+              0,
+              3.7330213176541633
+            ]
+          },
+          {
+            "id": 1786084634312,
+            "type": "wall",
+            "position": [
+              -3.3180427005229554,
+              0,
+              3.911631368368905
+            ]
+          },
+          {
+            "id": 1786084635295,
+            "type": "wall",
+            "position": [
+              -2.544525245759136,
+              0,
+              3.3522100197744606
+            ]
+          },
+          {
+            "id": 1786084636245,
+            "type": "wall",
+            "position": [
+              -1.5714478008279644,
+              0,
+              2.6056882067981064
+            ]
+          },
+          {
+            "id": 1786084649975,
+            "type": "door",
+            "position": [
+              0.48302444058004723,
+              0,
+              7.9362398018318
+            ]
+          },
+          {
+            "id": 1786084655456,
+            "type": "window",
+            "position": [
+              3.529332174169561,
+              0,
+              -0.35799395121849287
+            ]
+          },
+          {
+            "id": 1786084656639,
+            "type": "window",
+            "position": [
+              5.163145376974384,
+              0,
+              -62.21745159184508
+            ]
+          },
+          {
+            "id": 1786084675074,
+            "type": "stair",
+            "position": [
+              3.9184194753846886,
+              0,
+              5.818078510284707
+            ]
+          },
+          {
+            "id": 1786084692090,
+            "type": "roof",
+            "position": [
+              2.0763790988295754,
+              0,
+              -17.59035860765467
+            ]
+          },
+          {
+            "id": 1786084731187,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084731461,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084735221,
+            "type": "light",
+            "position": [
+              0.9197234839446558,
+              0,
+              -2.7099505427714634
+            ]
+          },
+          {
+            "id": 1786084856458,
+            "type": "bedroom",
+            "position": [
+              0.19513898362268323,
+              0,
+              -4.00602759876112
+            ]
+          },
+          {
+            "id": 1786084860627,
+            "type": "living",
+            "position": [
+              -2.246635636058745,
+              0,
+              -7.065471100127697
+            ]
+          },
+          {
+            "id": 1786084863437,
+            "type": "bathroom",
+            "position": [
+              2.0086872214682816,
+              0,
+              -6.650508864068332
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:45:41.864Z",
+      "message": "check my design for mistakes",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 4,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786084211992",
+        "name": "Vastu Residential Villa",
+        "placedObjects": [
+          {
+            "id": 1786084446841,
+            "type": "footing",
+            "position": [
+              1.1700568430898688,
+              0,
+              -1.6833205611910138
+            ]
+          },
+          {
+            "id": 1786084450211,
+            "type": "footing",
+            "position": [
+              -3.948072882822778,
+              0,
+              -9.929097772951664
+            ]
+          },
+          {
+            "id": 1786084451169,
+            "type": "footing",
+            "position": [
+              -2.017051003900188,
+              0,
+              -9.87182661969831
+            ]
+          },
+          {
+            "id": 1786084452050,
+            "type": "footing",
+            "position": [
+              3.1478439104802822,
+              0,
+              -13.787147361319022
+            ]
+          },
+          {
+            "id": 1786084534582,
+            "type": "footing",
+            "position": [
+              1.5112334279573716,
+              0,
+              4.67657676609095
+            ]
+          },
+          {
+            "id": 1786084539350,
+            "type": "footing",
+            "position": [
+              -1.2814594640024801,
+              0,
+              0.03931378478941383
+            ]
+          },
+          {
+            "id": 1786084540484,
+            "type": "footing",
+            "position": [
+              -1.1125161338201606,
+              0,
+              5.315852510427899
+            ]
+          },
+          {
+            "id": 1786084544114,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084545733,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084553785,
+            "type": "footing",
+            "position": [
+              3.4790463976079207,
+              0,
+              1.4175349875193426
+            ]
+          },
+          {
+            "id": 1786084554989,
+            "type": "footing",
+            "position": [
+              4.6057482237138405,
+              0,
+              -8.962150713858684
+            ]
+          },
+          {
+            "id": 1786084557906,
+            "type": "foundation",
+            "position": [
+              -0.8903822068964953,
+              0,
+              3.0004518119465047
+            ]
+          },
+          {
+            "id": 1786084564679,
+            "type": "beam",
+            "position": [
+              3.4247895086164903,
+              0,
+              5.7902273575990115
+            ]
+          },
+          {
+            "id": 1786084566141,
+            "type": "beam",
+            "position": [
+              1.3722257107086624,
+              0,
+              4.421570893625763
+            ]
+          },
+          {
+            "id": 1786084569792,
+            "type": "col",
+            "position": [
+              5.466916131883609,
+              0,
+              -17.73198825259167
+            ]
+          },
+          {
+            "id": 1786084571714,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084571992,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084573005,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084586148,
+            "type": "beam",
+            "position": [
+              -3.2761702214201054,
+              0,
+              9.204160362197797
+            ]
+          },
+          {
+            "id": 1786084589131,
+            "type": "beam",
+            "position": [
+              -4.11240398651988,
+              0,
+              7.007678947803722
+            ]
+          },
+          {
+            "id": 1786084600523,
+            "type": "raft",
+            "position": [
+              3.004121360906491,
+              0,
+              4.212769308412508
+            ]
+          },
+          {
+            "id": 1786084609556,
+            "type": "slab",
+            "position": [
+              -0.1725891681078311,
+              0,
+              -46.578930812786055
+            ]
+          },
+          {
+            "id": 1786084632940,
+            "type": "wall",
+            "position": [
+              -4.53211242904755,
+              0,
+              3.7330213176541633
+            ]
+          },
+          {
+            "id": 1786084634312,
+            "type": "wall",
+            "position": [
+              -3.3180427005229554,
+              0,
+              3.911631368368905
+            ]
+          },
+          {
+            "id": 1786084635295,
+            "type": "wall",
+            "position": [
+              -2.544525245759136,
+              0,
+              3.3522100197744606
+            ]
+          },
+          {
+            "id": 1786084636245,
+            "type": "wall",
+            "position": [
+              -1.5714478008279644,
+              0,
+              2.6056882067981064
+            ]
+          },
+          {
+            "id": 1786084649975,
+            "type": "door",
+            "position": [
+              0.48302444058004723,
+              0,
+              7.9362398018318
+            ]
+          },
+          {
+            "id": 1786084655456,
+            "type": "window",
+            "position": [
+              3.529332174169561,
+              0,
+              -0.35799395121849287
+            ]
+          },
+          {
+            "id": 1786084656639,
+            "type": "window",
+            "position": [
+              5.163145376974384,
+              0,
+              -62.21745159184508
+            ]
+          },
+          {
+            "id": 1786084675074,
+            "type": "stair",
+            "position": [
+              3.9184194753846886,
+              0,
+              5.818078510284707
+            ]
+          },
+          {
+            "id": 1786084692090,
+            "type": "roof",
+            "position": [
+              2.0763790988295754,
+              0,
+              -17.59035860765467
+            ]
+          },
+          {
+            "id": 1786084731187,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084731461,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084735221,
+            "type": "light",
+            "position": [
+              0.9197234839446558,
+              0,
+              -2.7099505427714634
+            ]
+          },
+          {
+            "id": 1786084856458,
+            "type": "bedroom",
+            "position": [
+              0.19513898362268323,
+              0,
+              -4.00602759876112
+            ]
+          },
+          {
+            "id": 1786084860627,
+            "type": "living",
+            "position": [
+              -2.246635636058745,
+              0,
+              -7.065471100127697
+            ]
+          },
+          {
+            "id": 1786084863437,
+            "type": "bathroom",
+            "position": [
+              2.0086872214682816,
+              0,
+              -6.650508864068332
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:46:11.298Z",
+      "message": "check my design for mistakes",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 4,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786084211992",
+        "name": "Vastu Residential Villa",
+        "placedObjects": [
+          {
+            "id": 1786084446841,
+            "type": "footing",
+            "position": [
+              1.1700568430898688,
+              0,
+              -1.6833205611910138
+            ]
+          },
+          {
+            "id": 1786084450211,
+            "type": "footing",
+            "position": [
+              -3.948072882822778,
+              0,
+              -9.929097772951664
+            ]
+          },
+          {
+            "id": 1786084451169,
+            "type": "footing",
+            "position": [
+              -2.017051003900188,
+              0,
+              -9.87182661969831
+            ]
+          },
+          {
+            "id": 1786084452050,
+            "type": "footing",
+            "position": [
+              3.1478439104802822,
+              0,
+              -13.787147361319022
+            ]
+          },
+          {
+            "id": 1786084534582,
+            "type": "footing",
+            "position": [
+              1.5112334279573716,
+              0,
+              4.67657676609095
+            ]
+          },
+          {
+            "id": 1786084539350,
+            "type": "footing",
+            "position": [
+              -1.2814594640024801,
+              0,
+              0.03931378478941383
+            ]
+          },
+          {
+            "id": 1786084540484,
+            "type": "footing",
+            "position": [
+              -1.1125161338201606,
+              0,
+              5.315852510427899
+            ]
+          },
+          {
+            "id": 1786084544114,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084545733,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084553785,
+            "type": "footing",
+            "position": [
+              3.4790463976079207,
+              0,
+              1.4175349875193426
+            ]
+          },
+          {
+            "id": 1786084554989,
+            "type": "footing",
+            "position": [
+              4.6057482237138405,
+              0,
+              -8.962150713858684
+            ]
+          },
+          {
+            "id": 1786084557906,
+            "type": "foundation",
+            "position": [
+              -0.8903822068964953,
+              0,
+              3.0004518119465047
+            ]
+          },
+          {
+            "id": 1786084564679,
+            "type": "beam",
+            "position": [
+              3.4247895086164903,
+              0,
+              5.7902273575990115
+            ]
+          },
+          {
+            "id": 1786084566141,
+            "type": "beam",
+            "position": [
+              1.3722257107086624,
+              0,
+              4.421570893625763
+            ]
+          },
+          {
+            "id": 1786084569792,
+            "type": "col",
+            "position": [
+              5.466916131883609,
+              0,
+              -17.73198825259167
+            ]
+          },
+          {
+            "id": 1786084571714,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084571992,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084573005,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084586148,
+            "type": "beam",
+            "position": [
+              -3.2761702214201054,
+              0,
+              9.204160362197797
+            ]
+          },
+          {
+            "id": 1786084589131,
+            "type": "beam",
+            "position": [
+              -4.11240398651988,
+              0,
+              7.007678947803722
+            ]
+          },
+          {
+            "id": 1786084600523,
+            "type": "raft",
+            "position": [
+              3.004121360906491,
+              0,
+              4.212769308412508
+            ]
+          },
+          {
+            "id": 1786084609556,
+            "type": "slab",
+            "position": [
+              -0.1725891681078311,
+              0,
+              -46.578930812786055
+            ]
+          },
+          {
+            "id": 1786084632940,
+            "type": "wall",
+            "position": [
+              -4.53211242904755,
+              0,
+              3.7330213176541633
+            ]
+          },
+          {
+            "id": 1786084634312,
+            "type": "wall",
+            "position": [
+              -3.3180427005229554,
+              0,
+              3.911631368368905
+            ]
+          },
+          {
+            "id": 1786084635295,
+            "type": "wall",
+            "position": [
+              -2.544525245759136,
+              0,
+              3.3522100197744606
+            ]
+          },
+          {
+            "id": 1786084636245,
+            "type": "wall",
+            "position": [
+              -1.5714478008279644,
+              0,
+              2.6056882067981064
+            ]
+          },
+          {
+            "id": 1786084649975,
+            "type": "door",
+            "position": [
+              0.48302444058004723,
+              0,
+              7.9362398018318
+            ]
+          },
+          {
+            "id": 1786084655456,
+            "type": "window",
+            "position": [
+              3.529332174169561,
+              0,
+              -0.35799395121849287
+            ]
+          },
+          {
+            "id": 1786084656639,
+            "type": "window",
+            "position": [
+              5.163145376974384,
+              0,
+              -62.21745159184508
+            ]
+          },
+          {
+            "id": 1786084675074,
+            "type": "stair",
+            "position": [
+              3.9184194753846886,
+              0,
+              5.818078510284707
+            ]
+          },
+          {
+            "id": 1786084692090,
+            "type": "roof",
+            "position": [
+              2.0763790988295754,
+              0,
+              -17.59035860765467
+            ]
+          },
+          {
+            "id": 1786084731187,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084731461,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084735221,
+            "type": "light",
+            "position": [
+              0.9197234839446558,
+              0,
+              -2.7099505427714634
+            ]
+          },
+          {
+            "id": 1786084856458,
+            "type": "bedroom",
+            "position": [
+              0.19513898362268323,
+              0,
+              -4.00602759876112
+            ]
+          },
+          {
+            "id": 1786084860627,
+            "type": "living",
+            "position": [
+              -2.246635636058745,
+              0,
+              -7.065471100127697
+            ]
+          },
+          {
+            "id": 1786084863437,
+            "type": "bathroom",
+            "position": [
+              2.0086872214682816,
+              0,
+              -6.650508864068332
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-07T06:48:08.425Z",
+      "message": "build home",
+      "config": {
+        "buildingType": "villa",
+        "plotWidth": 40,
+        "plotDepth": 60,
+        "plotFacing": "north",
+        "floors": 4,
+        "bhk": 3,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "budgetLevel": "premium",
+        "architecturalStyle": "modern",
+        "materials": [
+          "concrete",
+          "brick"
+        ],
+        "climate": "hot",
+        "hasPool": false,
+        "hasSolar": true,
+        "hasLift": false,
+        "hasGarden": true,
+        "hasParking": true,
+        "hasGym": false,
+        "hasHomeTheater": false,
+        "hasBalcony": true,
+        "hasTerrace": true,
+        "hasPrayerRoom": false,
+        "soilType": "medium",
+        "generatedByAI": false,
+        "id": "project-1786084211992",
+        "name": "Vastu Residential Villa",
+        "placedObjects": [
+          {
+            "id": 1786084446841,
+            "type": "footing",
+            "position": [
+              1.1700568430898688,
+              0,
+              -1.6833205611910138
+            ]
+          },
+          {
+            "id": 1786084450211,
+            "type": "footing",
+            "position": [
+              -3.948072882822778,
+              0,
+              -9.929097772951664
+            ]
+          },
+          {
+            "id": 1786084451169,
+            "type": "footing",
+            "position": [
+              -2.017051003900188,
+              0,
+              -9.87182661969831
+            ]
+          },
+          {
+            "id": 1786084452050,
+            "type": "footing",
+            "position": [
+              3.1478439104802822,
+              0,
+              -13.787147361319022
+            ]
+          },
+          {
+            "id": 1786084534582,
+            "type": "footing",
+            "position": [
+              1.5112334279573716,
+              0,
+              4.67657676609095
+            ]
+          },
+          {
+            "id": 1786084539350,
+            "type": "footing",
+            "position": [
+              -1.2814594640024801,
+              0,
+              0.03931378478941383
+            ]
+          },
+          {
+            "id": 1786084540484,
+            "type": "footing",
+            "position": [
+              -1.1125161338201606,
+              0,
+              5.315852510427899
+            ]
+          },
+          {
+            "id": 1786084544114,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084545733,
+            "type": "footing",
+            "position": [
+              -3.5719891512980855,
+              0,
+              1.8613692147049221
+            ]
+          },
+          {
+            "id": 1786084553785,
+            "type": "footing",
+            "position": [
+              3.4790463976079207,
+              0,
+              1.4175349875193426
+            ]
+          },
+          {
+            "id": 1786084554989,
+            "type": "footing",
+            "position": [
+              4.6057482237138405,
+              0,
+              -8.962150713858684
+            ]
+          },
+          {
+            "id": 1786084557906,
+            "type": "foundation",
+            "position": [
+              -0.8903822068964953,
+              0,
+              3.0004518119465047
+            ]
+          },
+          {
+            "id": 1786084564679,
+            "type": "beam",
+            "position": [
+              3.4247895086164903,
+              0,
+              5.7902273575990115
+            ]
+          },
+          {
+            "id": 1786084566141,
+            "type": "beam",
+            "position": [
+              1.3722257107086624,
+              0,
+              4.421570893625763
+            ]
+          },
+          {
+            "id": 1786084569792,
+            "type": "col",
+            "position": [
+              5.466916131883609,
+              0,
+              -17.73198825259167
+            ]
+          },
+          {
+            "id": 1786084571714,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084571992,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084573005,
+            "type": "col",
+            "position": [
+              4.344790147496681,
+              0,
+              4.635945085926988
+            ]
+          },
+          {
+            "id": 1786084586148,
+            "type": "beam",
+            "position": [
+              -3.2761702214201054,
+              0,
+              9.204160362197797
+            ]
+          },
+          {
+            "id": 1786084589131,
+            "type": "beam",
+            "position": [
+              -4.11240398651988,
+              0,
+              7.007678947803722
+            ]
+          },
+          {
+            "id": 1786084600523,
+            "type": "raft",
+            "position": [
+              3.004121360906491,
+              0,
+              4.212769308412508
+            ]
+          },
+          {
+            "id": 1786084609556,
+            "type": "slab",
+            "position": [
+              -0.1725891681078311,
+              0,
+              -46.578930812786055
+            ]
+          },
+          {
+            "id": 1786084632940,
+            "type": "wall",
+            "position": [
+              -4.53211242904755,
+              0,
+              3.7330213176541633
+            ]
+          },
+          {
+            "id": 1786084634312,
+            "type": "wall",
+            "position": [
+              -3.3180427005229554,
+              0,
+              3.911631368368905
+            ]
+          },
+          {
+            "id": 1786084635295,
+            "type": "wall",
+            "position": [
+              -2.544525245759136,
+              0,
+              3.3522100197744606
+            ]
+          },
+          {
+            "id": 1786084636245,
+            "type": "wall",
+            "position": [
+              -1.5714478008279644,
+              0,
+              2.6056882067981064
+            ]
+          },
+          {
+            "id": 1786084649975,
+            "type": "door",
+            "position": [
+              0.48302444058004723,
+              0,
+              7.9362398018318
+            ]
+          },
+          {
+            "id": 1786084655456,
+            "type": "window",
+            "position": [
+              3.529332174169561,
+              0,
+              -0.35799395121849287
+            ]
+          },
+          {
+            "id": 1786084656639,
+            "type": "window",
+            "position": [
+              5.163145376974384,
+              0,
+              -62.21745159184508
+            ]
+          },
+          {
+            "id": 1786084675074,
+            "type": "stair",
+            "position": [
+              3.9184194753846886,
+              0,
+              5.818078510284707
+            ]
+          },
+          {
+            "id": 1786084692090,
+            "type": "roof",
+            "position": [
+              2.0763790988295754,
+              0,
+              -17.59035860765467
+            ]
+          },
+          {
+            "id": 1786084731187,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084731461,
+            "type": "light",
+            "position": [
+              -8.27975152765126,
+              0,
+              -36.27788775182093
+            ]
+          },
+          {
+            "id": 1786084735221,
+            "type": "light",
+            "position": [
+              0.9197234839446558,
+              0,
+              -2.7099505427714634
+            ]
+          },
+          {
+            "id": 1786084856458,
+            "type": "bedroom",
+            "position": [
+              0.19513898362268323,
+              0,
+              -4.00602759876112
+            ]
+          },
+          {
+            "id": 1786084860627,
+            "type": "living",
+            "position": [
+              -2.246635636058745,
+              0,
+              -7.065471100127697
+            ]
+          },
+          {
+            "id": 1786084863437,
+            "type": "bathroom",
+            "position": [
+              2.0086872214682816,
+              0,
+              -6.650508864068332
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
